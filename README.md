@@ -1,1 +1,1 @@
-# SVM-for-Nonspecific-Structure
+# SVM for meronym (part-of) relations classification
